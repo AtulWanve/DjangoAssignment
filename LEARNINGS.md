@@ -1,0 +1,2 @@
+I revisited Django after not using it for about a year and refreshed how a Django project, app, models, migrations, admin, URLs, views, and tests fit together.
+I learned that AI can generate code quickly, but its suggestions still need to be questioned, tested, and verified rather than blindly trusted. I also learned how to better control an AI coding agent and use concrete test cases to validate assumptions before accepting the final implementation.
